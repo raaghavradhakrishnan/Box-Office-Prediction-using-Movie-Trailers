@@ -5,7 +5,7 @@ This repository contains the codes and research report for the Box Office Return
   1. Preprocessing, augmentation and conveting the videos into frames 
   
   
-**LTC_Implementation.ipynb: **
+**LTC_Implementation.ipynb**
   1. Implementation of Long Temporal 3D Convolution on movie trailers
   2. Integration of LTC with FC networks on meta-data
 
