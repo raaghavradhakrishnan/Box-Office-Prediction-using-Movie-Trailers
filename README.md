@@ -8,8 +8,10 @@ This repository contains the codes and research report for the Box Office Return
 **LTC_Implementation.ipynb**
   1. Implementation of Long Temporal 3D Convolution on movie trailers
   2. Integration of LTC with FC networks on meta-data
+  3. Comparison with baseline linear regression and gradient boosting methods
 
 
 **Lstm_Implementation.ipynb**
   1. Implementation of Bi-directional LSTM module to train on the movie trailers
   2. Integration of LSTM module with FC netowrks trained on meta-data
+  3. Comparison with baseline linear regression and gradient boosting methods
