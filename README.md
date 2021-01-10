@@ -1,7 +1,7 @@
 # Box-Office-Prediction-using-Movie-Trailers
 This repository contains the codes and research report for the Box Office Return Prediction Research Project developed during the International Masters in Data Analytics at the University of Hildesheim.
 
-preprocessing.ipynb
+\bold{reprocessing.ipynb}
   1. Preprocessing, augmentation and conveting the videos into frames 
   
   
